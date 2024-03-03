@@ -1,4 +1,4 @@
-# TP2-progra3 (MVC)
+# TP2-progra3 (MVC-WindowBuilder)
 ## Introduccion 
 Aplicación que permitirá planificar conexiones telefónicas entre
 localidades despobladas, la cual consiste en calcular, luego del ingreso de las
