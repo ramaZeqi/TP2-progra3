@@ -1,4 +1,4 @@
-# TP2-progra3
+# TP2-progra3 (MVC)
 ## Introduccion 
 Aplicación que permitirá planificar conexiones telefónicas entre
 localidades despobladas, la cual consiste en calcular, luego del ingreso de las
@@ -20,6 +20,7 @@ rango de elección de números en representación de punto flotante que ira de -
 representación cartesiana para estas medidas. Ademas, vale agregar, que así
 como es posible que el usuario ingrese una localidad, también este podrá eliminar
 alguna de ellas de ser necesario.
+
 Una vez ingresados todos los valores necesarios para realizar el calculo,
 este se llamara a través del frame principal mediante el botón “calcular costo
 mínimo”;ademas , el frame principal, brindara la opción de visualizar la conexión de
